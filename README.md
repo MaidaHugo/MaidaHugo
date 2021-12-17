@@ -1,11 +1,15 @@
 ## Olá Mundo! 👋
 
 
-<div style="dispaly: inline_block" align ="left">
+  - 🌱 Estou estudando Java<br>
+  - 💬 Formado em aviação e estudando programação!
+
+
+<div align="center">
   <a href="https://github.com/MaidaHugo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaidaHugo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/_>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidaHugo&layout=compact&theme=highcontrast"/_>
-</div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaidaHugo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidaHugo&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
 
 <br>
 
