@@ -1,7 +1,7 @@
 ## Olá Mundo! 👋
   - 🌱 Estou estudando Java<br>
   - 💬 Formado em aviação e estudando programação!
-<div display="inline" align="left">
+<div style="display: inline" align="left">
   <p>
     <a href="https://github.com/MaidaHugo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaidaHugo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
